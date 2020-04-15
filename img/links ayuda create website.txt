@@ -1,0 +1,8 @@
+pagina para iconos en css=
+https://fontawesome.com/
+https://www.w3schools.com/html/html_basic.asp
+https://colorhunt.co/
+https://www.css3maker.com/css-3-rgba.html
+https://www.fontsquirrel.com/fonts/web-symbols
+https://www.favicon-generator.org/
+sass --watch styles.scss styles.css   --> CORRER SASS EN CONSOLA
